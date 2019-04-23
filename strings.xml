@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!--首页-->
+    <string name="NewVersion">New Version:</string>
+    <string name="Paid">Paid</string>
+    <string name="Exclusive">Exclusive</string>
+    <string name="GAME">Game</string>
+    <string name="APP">App</string>
+    <string name="NEW">New</string>
+    <string name="Categories">Categories</string>
+    <string name="games">Games</string>
+    <string name="REFRESH">Refresh</string>
+    <string name="Unable_to_connect_to_the_network">Unable to access internet.</string>
+    <string name="Recommended_Game_Mods">Recommended Game Mods</string>
+    <string name="Hot_Game_Mods">Hot Game Mods</string>
+    <string name="Recommended_App_Mods">Recommended App Mods</string>
+    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Recommended_New_Mods">Recommended New Mods</string>
+    <string name="Last_Update_Mods">Latest Updates</string>
+    <string name="SearchHint">Search..</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">Official Website</string>
+    <string name="Management">Management</string>
+    <string name="Settings">Settings</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Translation">Translation</string>
+    <string name="Share">Share</string>
+    <string name="Checkforupdate">Check for Update</string>
+    <string name="FollowusonTwitter">Follow us on Twitter</string>
+    <string name="FollowusonFacebook">Follow us on Facebook</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">Mobile Network Alert</string>
+    <string name="settings_auto_install">Automatically Install</string>
+    <string name="Download_Directory">Download Directory</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_clear_cache">Clear Cache</string>
+    <string name="Clean_up_the_complete">The cache is cleared.</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result"> Oops! No result found.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">Downloads</string>
+    <string name="Downloading">Downloading</string>
+    <string name="Finished">Finished</string>
+    <string name="No_Download">No File Found.</string>
+    <string name="Pause">Pause</string>
+    <string name="Waiting_in_queue">Waiting in queue</string>
+    <string name="Completed">Completed</string>
+    <string name="UnZiping">Extracting</string>
+    <string name="UnZip_succeed">Finished Extracting</string>
+    <string name="Rate">Rate</string>
+    <string name="Rated">Rated</string>
+    <string name="Version">Version</string>
+    <string name="Ratingsreviews">Ratings &amp; Reviews</string>
+    <string name="Tryitlater">Try it later</string>
+    <string name="Retry">Retry</string>
+    <string name="Serviceisbusy">Connecting...</string>
+
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">Notice</string>
+    <string name="deletethistask">Delete this file</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Delete">Delete</string>
+
+    <!--APP详情页-->
+    <string name="Mods">Mods</string>
+    <string name="Original">Original</string>
+    <string name="Previousversion">Previous Version</string>
+    <string name="Download">Download</string>
+    <string name="Downloadobb">Download XAPK</string>
+    <string name="Downloaddata">Download(Data)</string>
+
+
+
+    <string name="Downloaded">Downloaded</string>
+    <string name="Voted">Voted</string>
+    <string name="Install">Install</string>
+    <string name="Connecting">Connecting...</string>
+    <string name="readmore">Read More</string>
+    <string name="modfeature">Mod info:</string>
+    <string name="Moreversion">More Version</string>
+    <string name="Recommend">Recommend</string>
+    <string name="Recommendmod">Recommended Mod</string>
+    <string name="Moremods">More Mods</string>
+
+
+
+
+
+    <!--评分-->
+    <string name="skip">Skip</string>
+    <string name="Submit">Submit</string>
+    <string name="ReSubmit">Resubmit</string>
+    <string name="uploading">Uploading... Please keep HappyMod open until it\'s done.</string>
+    <string name="submitfailure">Upload failed, please resubmit or skip this step</string>
+    <string name="Please_leave_some_comments">Please leave some comments.</string>
+    <string name="Please_rate_this_mod">Please rate this mod:</string>
+    <string name="Hated_it">Hate it!</string>
+    <string name="Disliked_it">Dislike it.</string>
+    <string name="Its_ok">It\'s ok.</string>
+    <string name="Liked_it">Like it.</string>
+    <string name="Loved_it">Love it!</string>
+    <string name="tppic_title">Please share some screenshots about this mod</string>
+    <string name="Thanksforyourcomment">Thanks for your comment !</string>
+    <string name="ifyoulovethismod">If you love this mod.</string>
+    <string name="shareus">Share it with your friends:</string>
+    <string name="whatsmoded">What’s Modded?</string>
+    <string name="fatures">Mod Feature(s)</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">Share ‘HappyMod’ via</string>
+    <string name="share_subject">Get HappyMod</string>
+    <string name="share_text">Download 100% working mods with @HappyMod\nhttps://www.happymod.com/</string>
+
+    <!--修改路径-->
+    <string name="pref_location">Storage location</string>
+
+    <!--update -->
+    <string name="force_des">100% Working Mods</string>
+    <string name="nvisrti">new version is ready to install.</string>
+    <string name="OPEN">OPEN</string>
+    <string name="OK">OK</string>
+    <string name="Loading">Loading......</string>
+    <string name="updata_tip">You are using the latest stable version of HappyMod</string>
+    <string name="xzzb">Please download official HappyMod.</string>
+    <string name="Continue">Continue</string>
+    <string name="Remove_the_original_version_before_install_it">Please remove the original version before install it. It’s at your own risk.</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">No space left on device</string>
+    <string name="Is_this_app_you_need">Are you looking for this app?</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="need">, need:</string>
+    <string name="No_enough_space_left_on_device">No enough space left on device, left:</string>
+    <string name="updatenow">Update Now</string>
+    <string name="updateFail">Download failed. Please close and reopen</string>
+    <string name="initializing">Initializing</string>
+    <string name="Retrying">Retrying</string>
+    <string name="language">Language</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">Popular</string>
+    <string name="s_New">New</string>
+    <string name="apps">Apps</string>
+
+    <!-- 大文件 -->
+    <string name="mergering">Final processing</string>
+    <string name="mergerwait">Final processing (Needs 1-2 minutes)</string>
+
+
+    <!-- 验证 -->
+    <string name="pleaseverification">Please complete the verification to get 5 more free downloads today！</string>
+    <string name="Startverification">Start Verification</string>
+    <string name="verificationSuccess">Congratulations! You get 5 more free downloads today. Enjoy it!</string>
+    <string name="verificationShangXian">Oops! You have reached daily download limit, try again after X hours.</string>
+    <string name="verificationFail">Verification failed, please try again!</string>
+    <string name="Morehelp">(More help)</string>
+    <string name="uid">UserId</string>
+    <string name="copysuccess">Userid has been copied to the clipboard.</string>
+
+    <string name="watchnow">View Now</string>
+    <string name="inspirevideotitle">View the video ads（about 20s）to support Happymod\'s development and get 5 more downloads.</string>
+    <string name="ggdownloading">Ads is loading, please wait and keep happymod open.</string>
+    <string name="ggdownloadfail">The Ads is failed to load, try to reload it to get 5 more downloads today.</string>
+    <string name="Reload">Reload</string>
+    <string name="verificaing">In verification, please wait a moment.</string>
+
+
+    <!-- 评价 -->
+    <string name="Removeads">Remove ads</string>
+    <string name="Paidforfree">Paid for free</string>
+    <string name="Unlimitedmoney">Unlimited money</string>
+    <string name="Freepurchase">Free purchase</string>
+    <string name="Freeshopping">Free shopping</string>
+    <string name="Unlocked">Unlocked</string>
+    <string name="Patched">Patched</string>
+    <string name="Premium">Premium</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Lite</string>
+    <string name="Subscribed">Subscribed</string>
+    <string name="Prime">Prime</string>
+    <string name="Plus">Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Substratum</string>
+    <string name="Debloated">Debloated</string>
+    <string name="Donate">Donate</string>
+    <string name="AOSPcompatible">AOSP compatible</string>
+    <string name="Cracked">Cracked</string>
+    <string name="NoAds">No Ads</string>
+    <string name="Infinite">Infinite</string>
+    <string name="Endless">Endless</string>
+    <string name="Invincible">Invincible</string>
+    <string name="Unlimitedhints">Unlimited hints</string>
+    <string name="Megamod">Mega mod</string>
+    <string name="Full">Full</string>
+
+
+</resources>
